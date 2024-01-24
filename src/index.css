@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Agrega clases personalizadas o modifica configuraciones de Tailwind aquí */
+.bg-black {
+    background-color: #000;
+  }
